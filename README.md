@@ -15,7 +15,8 @@
 - ⚡ Fun fact: I liked K-drama and anime with comedy, action and drama genre
 
 ## Tech Stack
-- 💬 Python and Flask
+- 💬 Javascript
+- 📫 Python and Flask
 - 🧠 Codespace in GitHub
 - ⚡ HTML, JS, CSS
 - 🚀 OpenAI API
