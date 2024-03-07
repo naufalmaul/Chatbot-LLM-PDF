@@ -12,7 +12,7 @@
 - 🌱 Asal universitas: Universitas Swadaya Gunung Jati - Cirebon 
 - 💬 Semester: 6 
 - 👀 Interest: AI, Workout and Relaxing video games 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I liked K-drama and anime with comedy, action and drama genre
 
 ## Tech Stack
 - 💬 Python and Flask
